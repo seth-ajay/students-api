@@ -10,6 +10,7 @@ import (
 
 type Htpp_Server struct {
 	Addr string
+	host string
 }
 
 //  env-default: "production
